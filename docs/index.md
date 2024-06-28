@@ -1,7 +1,7 @@
 ---
 hero:
   title: happy-charts
-  description: 运用React组件封装思想，仿制了echarts的一些组件，在此基础之上对于碰撞检测、包围盒、四叉树、批处理也有思考
+  description: 运用React组件封装思想，重构了echarts的一些组件，在此基础之上对于碰撞检测、包围盒、四叉树、批处理也有思考
   actions:
     - text: 组件
       link: /components
