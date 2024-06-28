@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'happycharts-main'
+const repo = 'happycharts'
 
 export default defineConfig({
   outputPath: 'docs-dist',
